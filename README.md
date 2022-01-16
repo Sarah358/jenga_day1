@@ -15,7 +15,7 @@ assignment 1 at jenga school
 ● Print the numbers that are equal to the square of the sum of its digits (happy numbers )
 
 
-# QUESTION  TWO
+# QUESTION TWO
 
 ## In this part, we are going to write a program that does a search in a file that contains names and ages. Copy the following lines and paste them in Notepad. Save the file in the folder that you will save your python program with the name “names.txt”. Make sure Each name and age is in its own line (e.g “Albert 5” is one line ) . Remove the commas when pasting.
     Alfred 5, Abdul 5, Eliza 11, Harun 8, Rama 9, Fatma 11, Martin 12, Nuray
